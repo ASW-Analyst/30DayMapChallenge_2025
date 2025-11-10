@@ -1,0 +1,22 @@
+
+h1, h2, h3, h4 {
+  color: #4dabf7;
+  font-weight: 600;
+}
+
+hr {
+  border: none;
+  border-top: 3px solid #4dabf7;
+  margin: 10px 0;
+}
+
+.btn-primary {
+  background-color: #4dabf7;
+  border-color: #4dabf7;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #3793df;
+  border-color: #3793df;
+}
